@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
       inputs:
         publishPreRelease:
-          description: 'Publish a pre-release ?'
+          description: 'Publish a pre-release ?'                                                                                                                                                                                                                                                                                                                                                
           required: true
           type: choice
           options:
